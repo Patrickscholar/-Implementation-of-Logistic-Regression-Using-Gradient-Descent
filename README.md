@@ -15,6 +15,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Program:
 <img width="573" alt="Screenshot 2024-11-15 at 8 25 47 PM copy" src="https://github.com/user-attachments/assets/4e8e0e77-6969-47e0-bb9d-0790e464f64e">
+
 <img width="421" alt="Screenshot 2024-11-15 at 8 26 30 PM" src="https://github.com/user-attachments/assets/92bceceb-6845-4151-b730-b1b5000e26e4">
 
 /*
